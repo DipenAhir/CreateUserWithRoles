@@ -1,4 +1,4 @@
-# In .env file add you mongo db creds "MongoDB"
+# In .env file add your mongodb creds "MongoDB"
 
 # run cmd : npm i or sudo npm i
 
